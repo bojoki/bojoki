@@ -1,4 +1,4 @@
-Hi 👋 I’m Forrest, I go by @bojoki online, here's some fun facts about me:
+Hi 👋 I’m Forrest, I like to go by @bojoki online, here's some fun facts about me:
 
 - 👀 I’m interested in technology
 - 💞️ I’m looking to collaborate on projects!
