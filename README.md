@@ -2,7 +2,7 @@ Hi 👋 I’m Forrest, I like to go by @bojoki online, here's some fun facts abo
 
 - 👀 I’m interested in technology
 - 💞️ I’m looking to collaborate on projects!
-- 📚 I’m currently learning Vue and Docker
+- 📚 I’m currently learning DevOps
 - 🕹️ I've played around with Vue, Kubernetes, and AWS.
 - 📜 I'm versed in C/C++, JS, and Python
 - 🥽 I'm looking forward to Web 3.0, smart contracts, and VR! 
